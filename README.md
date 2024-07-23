@@ -4,10 +4,10 @@
 
 ## I'm an Industrial Engineer, FP&A Manager and Data Scientist
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently working as an FP&A Manager at a Healthcare company.
+- 📚 I’m currently learning everything about Data Science 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Fun fact: I love to excersie and reading.
 
 ---
 
