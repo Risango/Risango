@@ -1,5 +1,10 @@
 # Hi there, I'm Ricardo Santana
 
+Accomplished Industrial Engineer with a robust background in Business Intelligence and process improvement. Currently, the Head of Business Intelligence at Stella Mattina, where i have implemented initiatives that significantly increased operational efficiency and revenue. Expertise in market analysis that has facilitated strategic acquisitions and enhanced patient visit tracking, resulting in substantial improvements in patient care and clinic performance.
+
+Strong analytical skills and proficient in various technical tools including Python, Excel, Tableau, and Minitab. Ability to lead teams and drive continuous improvement projects complemented by proficiency in complex problem-solving, strategic thinking, and impactful insights. Bilingual, with native proficiency in both English and Spanish, an effective communicator in diverse environments.
+
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm an Industrial Engineer, FP&A Manager and Data Scientist
