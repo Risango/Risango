@@ -14,7 +14,7 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
-[<img align="left" alt="Ricardo | LinkedIn" height="30px" src="https://www.linkedin.com/in/risango/>][linkedin]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 
 <br />
 
