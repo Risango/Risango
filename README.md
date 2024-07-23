@@ -17,7 +17,6 @@
 
 [<img align="left" alt="risango | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][risango-linkedin]
 
-[risango-linkedin]: https://www.linkedin.com/in/risango/
 
 <br />
 
