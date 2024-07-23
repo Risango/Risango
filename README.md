@@ -15,7 +15,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="risango | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][risango-linkedin]
+[<img align="left" alt="risango | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][risango-linkedin] [risango](https://www.linkedin.com/in/risango/)
 
 [risango-linkedin]: https://www.linkedin.com/in/risango/
 
