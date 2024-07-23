@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working as an FP&A Manager at a Healthcare company.
 - 📚 I’m currently learning everything about Data Science 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to excersie and reading.
+- ⚡ Fun fact: I love exercising and reading.
 
 ---
 
